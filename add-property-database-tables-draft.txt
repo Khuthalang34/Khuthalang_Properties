@@ -1,0 +1,21 @@
+khuthalang database tables for property:
+
+1. Property Title (string)
+2. Property Description (string)
+3. Type (string)
+4. Status (string)
+5. Suburb (string)
+6. Bedrooms (integer)
+7. Bathrooms  (integer)
+8. Property ID* (integer)
+9. Garages (integer)
+10. Sale or Rent Price (integer)
+11. Deposit Price (integer)
+12. Property Features (Array string)
+13. Property Gallery (Array images[5])
+14. Address (string)
+15. Country (string)
+16. City (string)
+17. Province (string)
+18. Zip/Postal Code (integer)
+19.
