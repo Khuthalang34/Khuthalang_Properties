@@ -1,0 +1,4 @@
+6a) SELECT Address FROM `properties` WHERE Sale_or_Rent_Price BETWEEN 1200000 AND 2250000
+ b)SELECT Address FROM `properties` WHERE Suburb = 'Parklands' AND Bedrooms >= '4' AND Property_Features <> 'Pool'
+ c)
+ d)
